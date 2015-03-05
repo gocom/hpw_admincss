@@ -1,0 +1,14 @@
+{
+    "name": "hpw_admincss",
+    "description": "Admin-side style sheet",
+    "version": "0.1.0",
+    "type": 3,
+    "author": "Jukka Svahn",
+    "author_uri": "https://github.com/gocom",
+    "order": 5,
+    "flags": 0,
+    "help": {"file" : ["./README.textile"]},
+    "code": {"file" : [
+        "./src/Hpw/Admincss.php"
+    ]}
+}
