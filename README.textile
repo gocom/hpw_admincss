@@ -23,7 +23,7 @@ This is a toolshed project. Experimental and not part of the main supported prod
 
 h2. Changelog
 
-h3. 0.2.0 - upcoming
+h3. 0.2.0 - 2015/03/05
 
 * Updated the plugin to fully support up-to-date Textpattern versions.
 
