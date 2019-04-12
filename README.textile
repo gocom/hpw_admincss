@@ -1,27 +1,20 @@
 h1. hpw_admincss
 
-"Download":https://github.com/gocom/hpw_admincss/releases | "Packagist":https://packagist.org/packages/rah/hpw_admincss | "Donate":http://rahforum.biz/donate/hpw_admincss
+"Packagist":https://packagist.org/packages/rah/hpw_admincss | "Issues":https://github.com/gocom/hpw_admincss | "Donate":https://rahforum.biz/donate/hpw_admincss
 
-Fork of "hpw_admincss":http://textpattern.org/plugins/434/hpw_admincss. This plugin loads style sheet *admin* on your Admin side pages. No extra bells or whistles. Once installed, create a style named *admin* via the Styles panel and start hacking away.
+Fork of "hpw_admincss":https://textpattern.org/plugins/434/hpw_admincss. This plugin loads extra style sheet named as *admin* on "Textpattern CMS'":https://textpattern.com admin pages.
 
 h2. Install
 
-Using "Composer":http://getcomposer.org:
+Using "Composer":https://getcomposer.org:
 
-bc. $ composer require rah/hpw_admincss:*
-
-Or "download":https://github.com/gocom/hpw_admincss/releases a plugin package.
-
-h2. Requirements
-
-* Textpattern 4.4.1 or newer.
-* PHP 5.2.0 or newer.
-
-h2. Toolshed notice
-
-This is a toolshed project. Experimental and not part of the main supported product line of Rah; merely just a patch-job.
+bc. $ composer require rah/hpw_admincss
 
 h2. Changelog
+
+h3. 0.3.0 - upcoming
+
+* Quality of life.
 
 h3. 0.2.0 - 2015/03/05
 
