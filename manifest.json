@@ -4,11 +4,12 @@
     "version": "0.2.0",
     "type": 3,
     "author": "Jukka Svahn",
-    "author_uri": "https://github.com/gocom",
+    "author_uri": "https://github.com/gocom/hpw_admincss",
     "order": 5,
     "flags": 0,
     "help": {"file" : ["./README.textile"]},
     "code": {"file" : [
-        "./src/Hpw/Admincss.php"
+        "./src/Hpw/Admincss.php",
+        "./src/Index.php"
     ]}
 }

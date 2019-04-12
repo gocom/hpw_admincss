@@ -22,29 +22,4 @@
  * along with hpw_admincss. If not, see <http://www.gnu.org/licenses/>.
  */
 
-/**
- * The plugin class.
- *
- * @internal
- */
-final class Hpw_Admincss
-{
-    /**
-     * Constructor.
-     */
-    public function __construct()
-    {
-        register_callback([$this, 'render'], 'admin_side', 'head_end');
-    }
-
-    /**
-     * Outputs link element pointing to a style sheet named 'admin'.
-     */
-    public function render(): void
-    {
-        echo tag_void('link', [
-            'rel' => 'stylesheet',
-            'href' => hu . 'css.php?n=admin',
-        ]);
-    }
-}
+new Hpw_Admincss();
