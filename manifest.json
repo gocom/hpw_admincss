@@ -1,7 +1,7 @@
 {
     "name": "hpw_admincss",
     "description": "Admin-side style sheet",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "type": 3,
     "author": "Jukka Svahn",
     "author_uri": "https://github.com/gocom/hpw_admincss",

@@ -12,7 +12,7 @@ bc. $ composer require rah/hpw_admincss
 
 h2. Changelog
 
-h3. 0.3.0 - upcoming
+h3. 0.3.0 - 2019/04/13
 
 * Quality of life.
 
